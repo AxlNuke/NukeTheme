@@ -2,7 +2,15 @@
   "name": "nuke-theme",
   "displayName": "NukeTheme",
   "description": "Nuke's theme.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "AxlNuke",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AxlNuke/NukeTheme"
+  },
+  "keywords": [
+    "nuketheme"
+  ],
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -17,5 +25,8 @@
         "path": "./themes/Nuke Theme-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
