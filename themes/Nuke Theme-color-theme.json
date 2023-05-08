@@ -10,10 +10,11 @@
 		"sideBar.foreground":"#8b888f",
 		"focusBorder":"#555555",
 
-		"editorBracketHighlight.foreground1":"#ff4a4a",
-		"editorBracketHighlight.foreground2":"#ff4ab4",
+		"editorBracketHighlight.foreground5":"#c918b1",
+		"editorBracketHighlight.foreground4":"#ff4ab4",
 		"editorBracketHighlight.foreground3":"#ea4aff",
-		"editorBracketHighlight.foreground4":"#8f4aff",
+		"editorBracketHighlight.foreground2":"#8356ff",
+		"editorBracketHighlight.foreground1":"#4e27bb",
 
         "editorLineNumber.activeForeground": "#85D065",
         "editor.background": "#1e1e1e",
